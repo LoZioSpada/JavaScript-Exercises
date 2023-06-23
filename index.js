@@ -48,7 +48,7 @@ console.log(x)
 /* SCRIVI QUI LA TUA RISPOSTA */
 const name = {
     name: "Riccardo",
-    surname: "Spadon",
+    cognome: "Spadon",
     hobby: "Videogames & Coding"
 }
 
