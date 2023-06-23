@@ -23,7 +23,7 @@ REGOLE
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-/* un oggetto è un gruppo di variabili che descrivono una stessa entità o variabile */
+/* un oggetto è un gruppo di variabili che descrivono una stessa entità */
 
 
 /* ESERCIZIO 3
